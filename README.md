@@ -2,10 +2,10 @@
 
 Hello All, My Name is __TANUSHRI NAYAK__ 👋
 
-| <img src="Images/AM-Profile-Pic.jpg" alt="MySelf Arindam Mitra"> |
+| <img src="Images/TN-Profile-Pic.jpg" alt="MySelf Tanushri Nayak"> |
 | ----------- |
 
-I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
+I am Data Analytics and ML Enthusiast | Experienced SME with a demonstrated history of working in the Information Technology & Services industry. 
 
 # FOLLOW/SUBSCRIBE:-
 
