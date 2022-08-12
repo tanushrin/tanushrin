@@ -2,7 +2,7 @@
 
 Hello All, My Name is __TANUSHRI NAYAK__ 👋
 
-| <img src="Images/TN-Profile-Pic.jpg" alt="MySelf Tanushri Nayak"> |
+| <img src="Images/TN-Profile-Pic.jpg" width="250" height="250" alt="MySelf Tanushri Nayak"> |
 | ----------- |
 
 I am Data Analytics and ML Enthusiast | Experienced SME with a demonstrated history of working in the Information Technology & Services industry. 
