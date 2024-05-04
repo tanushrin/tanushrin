@@ -12,7 +12,7 @@ I am Data Analytics and ML Enthusiast | Experienced SME with a demonstrated hist
 -  [LinkedIn](https://www.linkedin.com/in/tanushri-nayak-a518645b/)
 -  [Blogs: TN's TerraNova](https://tanushrin.github.io/)
 -  [Twitter](https://twitter.com/Tanushr62712563/) 
--  [GitHub](https://github.com/tanushrin/tanushrin/)
+-  [GitHub](https://github.com/tanushrin/)
 
 
 # GET-IN-TOUCH/CONNECT:-
